@@ -42,8 +42,8 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/yourname  
+- 📧 Email:mdjahidhasan186950@gmail.com
+- 💼 LinkedIn: linkedin.com/in/md-jahid-hasan-894a6232b 
 - 🌐 Portfolio: yourwebsite.com  
 
 ---
