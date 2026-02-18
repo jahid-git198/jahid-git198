@@ -4,7 +4,7 @@
 <h3 align="center">💻 Frontend Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Frontend+Developer;React+Learner;Love+Clean+UI;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Frontend+Developer;React+Learner;" />
 </p>
 
 ---
