@@ -1,16 +1,51 @@
 ## Hi there 👋
 
-<!--
-**jahid-git198/jahid-git198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <h1 align="center">Hi 👋, I'm Md Jahid Hasan</h1>
+<h3 align="center">💻 Frontend Developer from Bangladesh 🇧🇩</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Frontend+Developer;React+Learner;Love+Clean+UI;Future+Software+Engineer" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 I’m currently learning **React & Advanced JavaScript**
+- 💡 I love building modern & responsive websites
+- 🎯 Goal: Become a Professional Frontend Developer
+- ⚡ Fun fact: I enjoy solving coding problems
+
+---
+
+## 🛠 Tech Stack
+
+💻 HTML5  
+🎨 CSS3 / Tailwind CSS  
+⚡ JavaScript (ES6+)  
+⚛ React.js  
+🔥 Git & GitHub  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jahid-git98&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-git98&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: yourmail@gmail.com  
+- 💼 LinkedIn: linkedin.com/in/yourname  
+- 🌐 Portfolio: yourwebsite.com  
+
+---
+
+⭐ From [jahid-git98](https://github.com/jahid-git98)
